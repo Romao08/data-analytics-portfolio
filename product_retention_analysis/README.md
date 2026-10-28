@@ -34,7 +34,7 @@ Understand user retention patterns, identify potential engagement barriers, and 
 
 - [Python — Data Cleaning & Validation](01_data_cleaning_and_validation.py)
 - [SQL — Analysis Queries](02_analysis_queries.sql)
-- [Presentation — Findings & Recommendations](Bloom_Product_Data_Challenge.pdf)
+- [Presentation — Findings & Recommendations](Bloom_Product_Data_Challenge_AR.pdf)
 
 ## Notes
 
